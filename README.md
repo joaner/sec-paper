@@ -1,7 +1,7 @@
-# sec-paper
+# websec-paper
 interesting and helpful web security papers
 
-> You are welcome to submit papers discovered by the issue or pull request
+> Welcome to submit Web Security Pagers you found by the issue or pull request.
 
 ### XSS
 
